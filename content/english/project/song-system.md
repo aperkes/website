@@ -2,7 +2,7 @@
 title: "The 'Song' System"
 description: "Alternative modalities of brain regions for song"
 draft: false
-image : "images/finch-trace.png"
+image : "images/project_banners/finch-trace.png"
 bg_image: "images/featue-bg.jpg"
 category: "Neuroscience"
 information:

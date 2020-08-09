@@ -1,8 +1,8 @@
 ---
-title: "Agent based Simulation"
-description: "Modeling Monogamy"
+title: "Modeling Social Behavior"
+description: "Agent based simulation for pairbond interactions"
 draft: false
-image : "images/model-benefit.png"
+image : "images/project_banners/model-benefit2.png"
 bg_image: "images/featue-bg.jpg"
 category: "Theory"
 information:

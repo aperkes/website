@@ -2,7 +2,7 @@
 title: "Cowbird husbandry"
 description: "Solutions for bird housing"
 draft: false
-image : "images/nest_shot.jpg"
+image : "images/project_banners/nest_shot.png"
 bg_image: "images/featue-bg.jpg"
 category: "Behavior"
 information:

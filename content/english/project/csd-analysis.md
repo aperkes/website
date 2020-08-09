@@ -2,7 +2,7 @@
 title: "Posture Analysis"
 description: "Quantification and Analysis of Pose"
 draft: false
-image : "images/CSD-keypoints.png"
+image : "images/project_banners/CSD-keypoints.png"
 bg_image: "images/featue-bg.jpg"
 category: "Computer Vision"
 information:

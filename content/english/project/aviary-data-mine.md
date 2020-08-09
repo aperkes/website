@@ -1,8 +1,8 @@
 ---
-title: "Analyzing Human Observations"
+title: "Analysis of Human Observations"
 description: "Collaboration with David White"
 draft: false
-image : "images/portfolio/aviary_summary.png"
+image : "images/project_banners/fig_supp.png"
 bg_image: "images/featue-bg.jpg"
 category: "Behavior"
 information:

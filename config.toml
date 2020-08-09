@@ -131,7 +131,7 @@ URL = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Project"
+name = "Projects"
 URL = "project"
 weight = 3
 
@@ -173,7 +173,7 @@ URL = "about"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "Project"
+name = "Projects"
 URL = "project"
 weight = 2
 

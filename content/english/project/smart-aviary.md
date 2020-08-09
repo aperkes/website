@@ -2,7 +2,7 @@
 title: "Smart Aviary"
 description: "Large Collaboration with Daniilidis Group"
 draft: false
-image : "images/aviary-render.png"
+image : "images/project_banners/aviary-render.png"
 bg_image: "images/featue-bg.jpg"
 category: "Computer Vision"
 information:
