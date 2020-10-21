@@ -22,6 +22,10 @@ This is another paragraph </p>
   border-bottom: 1px solid #efefef;
   }
 ```
+
+Watch my youtube video:
+{{< youtube kuiJEqQjUv8 >}}
+
 These a bullet points </p>
 
 * hello
