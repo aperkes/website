@@ -11,7 +11,7 @@ draft: false
 type: "post"
 ---
 
-Back in July, I got to present at the Animal Behaviour Society (ABS) virtual conference.
+Back in July, I got to present at the Animal Behavior Society (ABS) virtual conference.
 ABS is always a bit intense, not because the people are mean or intimidating, 
 I feel like ABS is one of the most welcoming conferences I've participated in. 
 It's just so much. Most of the talks are 15-30 minutes, and they have about 4 parallel sessions going at once, 

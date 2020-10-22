@@ -25,6 +25,8 @@ With this data, I've been able to carefully analyze the trajectory of CSD and co
 I'm currently preparing a manuscript with the results, but you can check out a short video summarizing what is, 
 I think, the most interesting finding of this paper. 
 
+{{< youtube kuiJEqQjUv8 >}}
+
 These techniques should prove useful in the future for quantifying behavior in a range of songbird settings. 
 All this code is available on github. 
 

@@ -36,8 +36,8 @@ Traditional bird bands will likely be better for most scenarios, but if you need
 
 ### Homemade sound isolation boxes
 
-Large metalic sound chamers are extremely expensive, and the excelled Ofer Boxes aren't generally large enough for cowbirds. 
-Based on the designs from accoustic solutions, and the well used ofer boxes, I build a wooden box that functioned well
+Large metalic sound chamers are extremely expensive, and the excellent Ofer Boxes aren't generally large enough for cowbirds. 
+Based on the designs from accoustic solutions, and the well used Ofer boxes, I build a wooden box that functioned well
 for our purposes of playing sounds to cowbirds. A little labor intensive, but functional.
 
 ### 9-rack playback
@@ -47,12 +47,12 @@ We initially used drink coolers, which worked well but were quite labor intensiv
 However, it occurred to me that we might not even need to isolate the cowbirds from eachother, since they 
 were all hearing the same sounds simultaneously anyway. With that in mind I experimented with playbacks 
 in traditional 9 racks and found those were successful for playbacks. I also wrote some code to run the playbacks, 
-which is avialable here. 
+which is avialable on my github. 
 
 ### Cowbird food
 
 We feed our cowbirds the modified Bronx Zoo diet, which we got from David White. It's available here. 
-Check out my instructional video here.
+Check out my instructional video <a href="https://youtu.be/YBLpCf5T98k" target='_blank'>here</a>.
 
 ### Aviary housing
 

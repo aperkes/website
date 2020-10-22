@@ -9,13 +9,13 @@ about:
   I found out that being a biologist was an option. 
 
 
-  I've had the great fortune of spending my PhD learning ways to use machine learning to quantify behavior and using that to study courtship descisions.
-  I hope to actually figure out what drives mate choice and pairbond formation."                                         
+  I've had the great fortune of spending my PhD learning how to use machine learning to quantify behavior and study courtship.
+  I hope to leverage these approaches to figure out what drives mate preference and pairbond formation."
 
   button:
     enable : True
     label : "Check out my CV"
-    link : "#"
+    link : "perkes_online_cv.pdf"
 
   funfacts:
     # funfacts loop

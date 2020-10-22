@@ -17,7 +17,7 @@ information:
 This was actually the first project I worked on, and continues to be a major area of research 
 in the lab, although my focus is more on behavior. 
 
-Songbirds learn their song through experience, and this made songbirds an important model for studying
+Like humans, songbirds learn to vocalize through experience, and this made songbirds an important model for studying
 motor learning generally and vocal learning in particular. However prior work, especially with female songbirds, 
 suggested that the same regions that are necessary for song production and song learning are also involved 
 in other social behaviors, including non-song call timing, song analysis, and csd production. (Check out my review

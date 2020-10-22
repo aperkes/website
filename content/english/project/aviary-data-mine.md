@@ -8,10 +8,10 @@ category: "Behavior"
 information:
   - label : "Started"
     info : "Fall 2017"
-  - label : "Satus"
-    info : "First paper in review"
-  - label : "Collaborator"
-    info : "David White"
+  - label : "Status"
+    info : "First paper in accepted!"
+  - label : "Collaborators"
+    info : "Luke Anderson, David White"
   - label : "Next step"
     info : "Answer more questions"
 ---
@@ -21,7 +21,7 @@ information:
 A lot of behavioral data exists that can be used to test hypotheses or identify new ones for future experiments. 
 Often this comes down to wrangling old data and looking at it in new ways. 
 
-In order to prepare for the data we would get from our Smart Aviary (add a link there),
+In order to prepare for the data we would get from our <a href="http://example.com/" target="_blank">Smart Aviary</a>
 I worked with long-time collaborator David White to identify prior years of behavioral observations 
 that could provide a template for the sort of data we would receive. Dave has decades of scan-sampling
 data, documenting pairwise interractions in large, social flocks. This was a dream data set to work on. 
@@ -32,7 +32,8 @@ pairbonds, however, I noticed early in the data that females chattered quite oft
 
 Then lab member H. Luke Anderson wondered whether chatter might actually represent a form of signal jamming, 
 and we've worked together to combine focal observations, analysis of old data, and new experiments to test this idea. 
-Check out our bioRxiv of this paper, currently in review. 
+Our paper just got accepted to Animal Behaviour and is going through final formatting revisions, 
+so expect it early 2021. 
 
 This has also led to some fun ways to visualize (or sonify) behavioral data. 
 (Check out NestPlotter and DataSound repos over on code.) 
