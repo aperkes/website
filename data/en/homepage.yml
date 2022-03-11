@@ -3,8 +3,8 @@ banner:
   enable : true
   bg_image : "images/takeoff.jpg"
   bg_overlay : true
-  title : "Ammon Perkes Website"
-  content : "Your all in one source for avian pairbond formation, and other very specific interests"
+  title : "Ammon Perkes"
+  content : "Pointing a camera at social behavior"
   button:
     enable : true
     label : "Research"
@@ -13,14 +13,14 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "I made a website!"
-  description : "I study why females songbirds choose a specific mate, 
-  and how they do that successfully."
-  content : "Welcome to my website! This is brand new for me, so pardon 
-  any rough edges. I'm currently wrapping up my PhD and
-  figuring out what comes next. You can check out my current projects, 
-  see some of my code, and even read my blog. Shoot me a message with
-  questions or job opportunities, or follow me on Twitter. "
+  title : "How do social networks form?"
+  description : "I am a postdoctoral fellow interested in how animals make 
+  social decisions, and developing the tools necessary to study this."
+  content : "Welcome to the site! Check out my current research, 
+  or see some of my thoughts and news over in the blog section. 
+  If you're interested in collaborating, or want to contact me with 
+  questions or job opportunities, shoot me a message here or find me 
+  on Twitter."
   image : "images/wrapper-img.png"
 
 
