@@ -7,7 +7,7 @@ bg_image: "images/featue-bg.jpg"
 categories: ["Neuroscience","Electrophysiology"]
 tags: ["Carbon Fiber","Electrodes","Electrophysiology","3D Printing"]
 description: "I tried to make a new carbon fiber electrode"
-draft: true
+draft: false
 type: "post"
 ---
 
