@@ -52,9 +52,8 @@ logo = "images/logo.png"
 description = "This is Ammon's homepage"
 author = "Ammon Perkes"
 # Contact Information
-phone = "(Out of the lab for Covid)"
-email = "aperkes@sas.upenn.edu"
-location = "Lynch Labs, Philadelphia, PA"
+email = "aperkes@ucdavis.edu"
+location = "Storer Hall, Davis, CA"
 # contact form action
 contact_form_action = "https://formspree.io/xrgydeke" # contact form works with : https://formspree.io
 # Google Analitycs
