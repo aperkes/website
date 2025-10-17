@@ -4,18 +4,29 @@ about:
   image : "images/portraits/ammon_pink_gloves.jpg"
   title : "I study songbirds, code, and have as much fun as possible."
   content : "My name is Ammon (it rhymes with backgammon, or examine). 
-  I went to college to be a math major, but I found out that being moderately 
+  I started college to be a math major, but I found out that being moderately 
   good at something wasn't grounds for a life-long career. Fortunately, 
-  I found out that being a biologist was an option. 
+  I found out I could make a career out of observing animal behavior, 
+  and that being a biologist was an option. 
 
+  I had the great fortune of spending my PhD learning how to use computer vision 
+  to quantify behavior and study courtship in 3D. These days, I’m leveraging those 
+  same skills to study the development of individual and group-level personalities. 
 
-  I've had the great fortune of spending my PhD learning how to use machine learning to quantify behavior and study courtship.
-  I hope to leverage these approaches to figure out what drives mate preference and pairbond formation."
+  I'm love figuring out how to tackle complex tracking problems, and teach others
+  how to apply computer vision to answer cool questions about their systems. 
 
+  If you want to collaborate, or just chat, drop me a line!
+  "
   button:
     enable : True
     label : "Check out my CV"
     link : "perkes_online_cv.pdf"
+
+  button:
+    enable : True
+    label : "Contact me"
+    link : "contact"
 
   funfacts:
     # funfacts loop

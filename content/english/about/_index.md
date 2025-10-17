@@ -1,6 +1,6 @@
 ---
 title: "Ammon Perkes"
-description: "Science, python, and other adventures"
+description: "Computational biologist: pointing a camera at social behavior"
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---

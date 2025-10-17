@@ -13,14 +13,19 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "How do social networks form?"
-  description : "I am a postdoctoral fellow interested in how animals make 
-  social decisions, and developing the tools necessary to study this."
-  content : "Welcome to the site! Check out my current research, 
-  or see some of my thoughts and news over in the blog section. 
-  If you're interested in collaborating, or want to contact me with 
-  questions or job opportunities, shoot me a message here or find me 
-  on Twitter."
+  title : "How do individuals navigate their social environment?"
+  description : ""
+  content : "
+  I have spent the last decade or so exploring this question using a 
+  range of behavioral, genetic, and computational approaches. 
+  I am most interested in using computer vision to capture the full 
+  range of behavioral diversity in individuals and groups over time 
+  in order to understand the mechanisms that drive courtship, dominance, 
+  and success at the individual and group-level. 
+
+  Do you have animals you would like to track in 2D or 3D? 
+  Drop me a line, or check out some of the approaches I’ve used for ideas. 
+  "
   image : "images/wrapper-img.png"
 
 
