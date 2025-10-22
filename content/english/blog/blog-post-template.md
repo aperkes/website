@@ -23,6 +23,8 @@ This is another paragraph </p>
   }
 ```
 
+![Test image](/across_column.png)
+
 Watch my youtube video:
 {{< youtube kuiJEqQjUv8 >}}
 

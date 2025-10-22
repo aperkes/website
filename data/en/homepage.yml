@@ -1,14 +1,14 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/takeoff.jpg"
+  bg_image : "images/takeoff2fish.jpg"
   bg_overlay : true
   title : "Ammon Perkes"
   content : "Pointing a camera at social behavior"
   button:
     enable : true
-    label : "Research"
-    link : "project"
+    label : "What's New?"
+    link : "blog"
 
 ############################# About #################################
 about:
@@ -26,7 +26,7 @@ about:
   Do you have animals you would like to track in 2D or 3D? 
   Drop me a line, or check out some of the approaches I’ve used for ideas. 
   "
-  image : "images/wrapper-img.png"
+  image : "images/kirstenTracks500.gif"
 
 
 ######################### Portfolio ###############################

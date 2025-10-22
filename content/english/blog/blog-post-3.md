@@ -29,7 +29,7 @@ conversation, you could just find them in their office hours and chat.
 Anyway, reviewing ABS probably makes for boring blog post, but I'm extremely grateful to the organizers who managed
 to turn what could have been a big disappointment into a refreshing change of pace. 
 
-Anyway, for my video, I thought about what element of my main thesis project would be really excited to 
+Returning to my video, I thought about what element of my main thesis project would be really excited to 
 animal behavior folks, and I settled on what was a pretty interesting question to me: 
 
 # Why do birds mate when they do? 

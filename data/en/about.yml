@@ -2,62 +2,62 @@
 about:
   enable : true
   image : "images/portraits/ammon_pink_gloves.jpg"
-  title : "I study songbirds, code, and have as much fun as possible."
+  title : "I like watching animals. I love making computers watch them for me."
   content : "My name is Ammon (it rhymes with backgammon, or examine). 
-  I started college to be a math major, but I found out that being moderately 
-  good at something wasn't grounds for a life-long career. Fortunately, 
-  I found out I could make a career out of observing animal behavior, 
-  and that being a biologist was an option. 
+  I started college to be a math major, but I realized that just being moderately 
+  good at something wasn't the same as wanting to spend my life doing it. Fortunately, around the same time I found out that I could use a lot of the same skills to study animal behavior. 
 
   I had the great fortune of spending my PhD learning how to use computer vision 
   to quantify behavior and study courtship in 3D. These days, I’m leveraging those 
   same skills to study the development of individual and group-level personalities. 
 
-  I'm love figuring out how to tackle complex tracking problems, and teach others
+  I love figuring out how to tackle complex tracking problems, and teach others
   how to apply computer vision to answer cool questions about their systems. 
 
   If you want to collaborate, or just chat, drop me a line!
+
+
   "
   button:
     enable : True
     label : "Check out my CV"
     link : "perkes_online_cv.pdf"
 
-  button:
-    enable : True
-    label : "Contact me"
-    link : "contact"
+  #button:
+  #  enable : True
+  #  label : "Contact me"
+  #  link : "contact"
 
   funfacts:
     # funfacts loop
-    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Active Projects"
-      count : "3"
-      
-    # funfacts loop
     - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Lines Of Code"
-      count : "3000"
+      name : "Lines Of Python"
+      count : "38857"
       
     # funfacts loop
-    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Birds captured"
-      count : "300"
+    - icon : "ion-ios-paw" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Animals housed"
+      count : "1300"
       
     # funfacts loop
     - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Grants awarded"
-      count : "5"
+      count : "6"
       
     # funfacts loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-document" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Publications"
-      count : "3"
+      count : "18"
+       
+    # funfacts loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Citations"
+      count : "200"
       
     # funfacts loop
     - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "First Author Pubs"
-      count : "1"
+      name : "First author pubs"
+      count : "4"
       
 ################################ feature #####################################
 features:

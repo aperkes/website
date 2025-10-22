@@ -1,13 +1,13 @@
 ---
 title: "mobileSrc documentation is live!"
-date: 2025-10-17T11:07:10+06:00
+date: 2025-10-16T11:07:10+06:00
 author: Ammon Perkes
-image : "images/blog/blog-post-7.jpg"
+image : "images/blog/mosaic.png"
 bg_image: "images/featue-bg.jpg"
 categories: ["News"]
 tags: ["Code"]
 description: "Why did the chef leave his job at the diner?"
-draft: true
+draft: false
 type: "post"
 ---
 
@@ -15,3 +15,4 @@ We always get asked how we a) track our videos and b) record our fish. In a futu
 
 All schedules are maintained via a single file in the cloud, so there’s no coding ability required to update your schedule. By far my favorite feature is mosaic.sh, which grabs still from every video from the previous day and overlays them (in our case, in real-world configuration) so that you can quickly spot any problems in your recording before they disrupt your experiment. Probably more importantly, the pi’s and supervisor computer constantly check to make sure the videos are growing and send a message to slack if their video stops for any reason, afterwhich they reset themselves and turn the camera back on. We went from losing days of videos everytime there was anyproblem with a raspberryPi to (occasionally) losing minutes. Again, you will certainly need to modify this code to suit your specific layout, but check it out! It might save you some headaches.
 
+[Click here for the github](https://github.com/LaskowskiLab/FishTrack/tree/main/recording/mobileSrc "track those fish!" )

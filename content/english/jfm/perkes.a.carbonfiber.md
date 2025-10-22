@@ -2,7 +2,7 @@
 title: "How not to make carbon fiber electrodes"
 date: 2022-07-27T11:07:10+06:00
 author: Ammon Perkes
-image : "images/blog/blog-post-1.jpg"
+image : "images/jfm/electrode.png"
 bg_image: "images/featue-bg.jpg"
 categories: ["Neuroscience","Electrophysiology"]
 tags: ["Carbon Fiber","Electrodes","Electrophysiology","3D Printing"]
